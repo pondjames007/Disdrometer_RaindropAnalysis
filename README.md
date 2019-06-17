@@ -68,18 +68,22 @@ We used a telecentric lens *OPTO Engineering TC13064* on the front of the camera
 </p>
 
 ## Result
+
 * Captured Image in Low Exposure Time (100us)
 <p align="center">
 	<img src="./readme/low_exposure.png">
 </p>
+
 * Processed Image
 <p align="center">
 	<img src="./readme/low_processed.png">
 </p>
+
 * Captured Image in High Exposure Time (2000us)
 <p align="center">
 	<img src="./readme/high_exposure.png">
 </p>
+
 *  Processed Image
 <p align="center">
 	<img src="./readme/high_processed.png">
